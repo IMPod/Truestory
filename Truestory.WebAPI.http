@@ -1,0 +1,6 @@
+@Truestory.WebAPI_HostAddress = http://localhost:5234
+
+GET {{Truestory.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
